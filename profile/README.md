@@ -23,16 +23,6 @@ We analyze your operations, identify the tasks that consume the most time, and b
 
 ---
 
-## This organization
-
-| Repo | Description | Status |
-|------|-------------|--------|
-| [`skills`](https://github.com/centriqs-ai/skills) | OpenClaw skills for ClawHub & ClawMart | 🟢 Active |
-| [`playbooks`](https://github.com/centriqs-ai/playbooks) | Setup guides and automation playbooks | 🟡 In progress |
-| [`landing`](https://github.com/centriqs-ai/landing) | centriqs.io source code | 🟡 In progress |
-
----
-
 ## Skills
 
 Free skills available on [ClawHub](https://clawhub.ai):
