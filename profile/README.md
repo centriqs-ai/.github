@@ -69,7 +69,7 @@ Integrations    AFIP/ARCA · MercadoPago · Tiendanube · Google Workspace
 
 **hola@centriqs.io** · [centriqs.io](https://centriqs.io)
 
-Buenos Aires, Argentina 🇦🇷
+Buenos Aires, Argentina
 
 ---
 
