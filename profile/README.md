@@ -6,10 +6,6 @@
 
 **Center of your operations**
 
-[![Website](https://img.shields.io/badge/centriqs.io-1D9E75?style=flat-square&logo=globe&logoColor=white)](https://centriqs.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/centriqs-ai)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/CentriqsAI)
-
 </div>
 
 ---
