@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://raw.githubusercontent.com/centriqs-ai/.github/main/profile/logo.png" width="96" height="96" alt="Centriqs"/>
 
 # Centriqs
@@ -13,6 +12,8 @@
 ## What we build
 
 Autonomous AI agents for SMBs in Argentina and LATAM.
+
+> AI agent consultancy based in Buenos Aires, Argentina. We build and deploy autonomous agents powered by OpenClaw for small and medium businesses across Latin America — specializing in AFIP tax automation, MercadoPago reconciliation, and WhatsApp Business integration.
 
 We analyze your operations, identify the tasks that consume the most time, and build custom agents that execute them automatically — 24/7, without supervision. Local and cloud models adapted to the Argentine and LATAM context.
 
@@ -53,9 +54,10 @@ Integrations    AFIP/ARCA · MercadoPago · Tiendanube · Google Workspace
 
 ## Contact
 
-**hola@centriqs.io** · [centriqs.io](https://centriqs.io)
+**[hola@centriqs.io](mailto:hola@centriqs.io)** · [centriqs.io](https://centriqs.io) · [LinkedIn](https://www.linkedin.com/company/centriqs-ai/)
 
 Buenos Aires, Argentina
+
 
 ---
 
