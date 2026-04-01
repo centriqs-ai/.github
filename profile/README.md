@@ -21,7 +21,7 @@ models adapted to the Argentine and LATAM context.
 **What we automate:**
 - Automated WhatsApp responses and client queries
 - Periodic reports and metrics monitoring
-- Deadline and expiry alerts (AFIP, contracts, renewals)
+- Deadline and expiry alerts (ARCA, contracts, renewals)
 - Calendar management and scheduling
 - Reconciliation and operational workflows
 
@@ -40,7 +40,7 @@ Free skills available on [ClawHub](https://clawhub.ai):
 
 Paid skills on [ClawMart](https://shopclawmart.com):
 
-- **`afip-monitor`** — Browser automation for AFIP, due date alerts and regulation monitoring
+- **`arca-monitor`** — Browser automation for AFIP/ARCA, due date alerts and regulation monitoring
 - **`mercadopago-reconciler`** — MercadoPago API reconciliation with discrepancy alerts
 - **`tiendanube-assistant`** — Tiendanube order and stock monitoring
 
