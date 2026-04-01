@@ -25,6 +25,9 @@ models adapted to the Argentine and LATAM context.
 - Calendar management and scheduling
 - Reconciliation and operational workflows
 
+Every business has unique operational bottlenecks. 
+We identify yours and build the agent that solves them.
+
 ---
 
 ## Skills
