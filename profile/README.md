@@ -13,14 +13,17 @@
 
 Autonomous AI agents for SMBs in Argentina and LATAM.
 
-> AI agent consultancy based in Buenos Aires, Argentina. We build and deploy autonomous agents powered by OpenClaw for small and medium businesses across Latin America — specializing in AFIP tax automation, MercadoPago reconciliation, and WhatsApp Business integration.
+We analyze your operations, identify the tasks that consume 
+the most time, and build custom agents that execute them 
+automatically — 24/7, without supervision. Local and cloud 
+models adapted to the Argentine and LATAM context.
 
-We analyze your operations, identify the tasks that consume the most time, and build custom agents that execute them automatically — 24/7, without supervision. Local and cloud models adapted to the Argentine and LATAM context.
-
-**Sectors we work with:**
-- Accounting firms (estudios contables)
-- Digital marketing agencies
-- Service companies with 5–20 employees
+**What we automate:**
+- Automated WhatsApp responses and client queries
+- Periodic reports and metrics monitoring
+- Deadline and expiry alerts (AFIP, contracts, renewals)
+- Calendar management and scheduling
+- Reconciliation and operational workflows
 
 ---
 
